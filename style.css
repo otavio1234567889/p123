@@ -1,0 +1,22 @@
+.cabeca{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: lightpink; 
+}
+.rodape{
+    position: fixed;
+    color: royalblue;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: palegoldenrod;
+    text-align: center;
+}
+canvas{
+    border: 5px solid crimson;
+    border-radius: 20px;
+}
